@@ -1,0 +1,31 @@
+body{
+ background: #614;   
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: #ffffff;
+    margin-top: 100px;
+    transition: 0.5s;
+}
+
+h1:hover{
+    color: #666;
+    font-size: 80px;
+}
+
+h2{
+    text-align: center;
+    font-Size: 30px;
+    color: greenyellow;
+
+}
+
+a img{
+    width: 50px;
+}
+
+#space{
+    width: 100%;
+}
